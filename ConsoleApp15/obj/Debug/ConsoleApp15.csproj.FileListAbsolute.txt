@@ -1,0 +1,12 @@
+C:\Users\Немец\source\repos\ConsoleApp15\ConsoleApp15\bin\Debug\ConsoleApp15.exe.config
+C:\Users\Немец\source\repos\ConsoleApp15\ConsoleApp15\bin\Debug\ConsoleApp15.exe
+C:\Users\Немец\source\repos\ConsoleApp15\ConsoleApp15\bin\Debug\ConsoleApp15.pdb
+C:\Users\Немец\source\repos\ConsoleApp15\ConsoleApp15\bin\Debug\EntityFramework.dll
+C:\Users\Немец\source\repos\ConsoleApp15\ConsoleApp15\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Немец\source\repos\ConsoleApp15\ConsoleApp15\bin\Debug\EntityFramework.xml
+C:\Users\Немец\source\repos\ConsoleApp15\ConsoleApp15\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Немец\source\repos\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.csprojAssemblyReference.cache
+C:\Users\Немец\source\repos\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.csproj.CoreCompileInputs.cache
+C:\Users\Немец\source\repos\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.csproj.CopyComplete
+C:\Users\Немец\source\repos\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.exe
+C:\Users\Немец\source\repos\ConsoleApp15\ConsoleApp15\obj\Debug\ConsoleApp15.pdb
